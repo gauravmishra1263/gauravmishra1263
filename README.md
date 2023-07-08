@@ -4,6 +4,8 @@
 
 
  - 🔭 Learning Machine and Deep Learning
+ -  Expert in CAD Designing and 3D Printing
+ -  I am also planning to learn Web-3, AWS and Smart-contracts.
 
     
 
