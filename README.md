@@ -1,9 +1,19 @@
 ### Hi there 👋
     My Name is Gaurav Mishra
-    I am a Machine Learning and Robotics enthusiast.
     I am a Student of Production and Industrial engineering at NIT Kurukshetra(2020-2024)
 
+
+ - 🔭 Learning Machine and Deep Learning
+
+    
+
 [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravmishra1263)](https://github.com/gauravmishra1263/github-readme-stats)
+
+
+  #### 📫 How to reach me:
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gaurav-mishra-a10a35224/) )  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/gauravv.png/)  &nbsp; <a href="mailto:g.mishra1263@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+
 
 
 
