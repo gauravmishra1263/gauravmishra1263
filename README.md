@@ -12,15 +12,12 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/languages/python.png" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/tensorflow.svg" alt="tensorflow" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/tensorflow.svg" alt="tensorflow" style="vertical-align:top; 
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/opencv.svg" alt="opencv" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/jupyter.svg" alt="jupyter" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/pytorch.png" alt="jupyter" style="vertical-align:top; margin:4px">
- 
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-programming.svg" alt="c" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/c-plus-plus.png" alt="cpp" style="vertical-align:top; margin:4px">
- 
-margin:4px">    
 
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/development/sql-server.png" alt="sql" style="vertical-align:top; margin:4px">
 
