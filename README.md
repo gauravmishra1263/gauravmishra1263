@@ -38,9 +38,9 @@
   <img src="https://raw.githubusercontent.com/mr-prometheus/README.md/main/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   
 </p>
-
+ ![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/40px-Arduino_Logo.svg.png) 
 <!--
-![Arduino Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/40px-Arduino_Logo.svg.png) 
+
 
 
 
